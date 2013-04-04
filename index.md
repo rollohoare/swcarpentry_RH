@@ -6,3 +6,4 @@ The principle componenet for skiing is a pair of skis. These are effectively two
 Cross Country skiing
 --------------------
 Sometimes refered to as Nordic Skiing, this is usually done on flat ground. However, it can be done on slightly inclined sections of mountain.
+Skiing is only up these mountains and can reverse gravity.
